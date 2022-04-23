@@ -4,6 +4,7 @@ import Product from '../Product/Product';
 
 const Home = () => {
     const [products] = useProducts();
+
     return (
         <div className='container'>
             <div className='row'>

@@ -1,0 +1,14 @@
+.manage-product {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid lightgray;
+    height: 80px;
+    width: 450px;
+    margin: 40px;
+}
+
+.photo-manage {
+    width: 80;
+    height: 50px;
+}
